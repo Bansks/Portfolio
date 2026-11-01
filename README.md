@@ -29,8 +29,10 @@ Currently pursuing **B.Tech in Computer Science** at Graphic Era Hill University
 ---
 
 ### 🏅 AWS Certifications
+## 🏆 Certifications
 
-Cloud Quest · Cloud Practitioner · Cloud Essentials · Well-Architected Proficient · Security · Generative AI Practitioner  
+<!-- START CREDLY BADGES -->
+<!-- END CREDLY BADGES -->
 
 → [View on Credly](https://www.credly.com/users/bansh-kumar)
 

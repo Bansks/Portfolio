@@ -32,11 +32,11 @@ Currently pursuing **B.Tech in Computer Science** at Graphic Era Hill University
 ## 🏆 Certifications
 
 <!-- START CREDLY BADGES -->
-[![Well-Architected Proficient](https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](https://www.credly.com/badges/869f5a09-fce2-48ee-9ef7-9c8429018394)
-[![AWS Cloud Quest: Security - Training Badge](https://images.credly.com/size/110x110/images/ea344df5-1074-410e-b359-ded4ea3574a7/blob)](https://www.credly.com/badges/01ead0eb-73af-43c5-9d92-6f8a755ca0b2)
-[![AWS Cloud Quest: Generative AI Practitioner - Training Badge](https://images.credly.com/size/110x110/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob)](https://www.credly.com/badges/9b3b7443-3e44-44e4-813f-faa12f09b87c)
-[![AWS Cloud Quest: Cloud Practitioner - Training Badge](https://images.credly.com/size/110x110/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/badges/b1e690d9-3477-4ae3-a43b-df415b155e37)
-[![AWS Knowledge: Cloud Essentials - Training Badge](https://images.credly.com/size/110x110/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob)](https://www.credly.com/badges/3d3e9238-3798-4485-9287-98459528e5c6)
+<img width="601" height="601" alt="image" src="https://github.com/user-attachments/assets/50c3bcf5-7bd5-49b1-8af1-10418f6036c4" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e8302bc8-6f89-4072-955a-6d2821c99bf8" />
+<img width="601" height="601" alt="image" src="https://github.com/user-attachments/assets/061171a4-e012-4873-98d6-1f61ddd93213" />
+<img width="601" height="601" alt="image" src="https://github.com/user-attachments/assets/243dc5f2-e101-44c0-bf76-924895356302" />
+<img width="601" height="601" alt="image" src="https://github.com/user-attachments/assets/a129f071-55ba-44fb-878b-408e8af78bab" />
 <!-- END CREDLY BADGES -->
 
 → [View on Credly](https://www.credly.com/users/bansh-kumar)

@@ -32,11 +32,11 @@ Currently pursuing **B.Tech in Computer Science** at Graphic Era Hill University
 ## 🏆 Certifications
 
 <!-- START CREDLY BADGES -->
-<img width="601" height="601" alt="image" src="https://github.com/user-attachments/assets/50c3bcf5-7bd5-49b1-8af1-10418f6036c4" />
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e8302bc8-6f89-4072-955a-6d2821c99bf8" />
-<img width="601" height="601" alt="image" src="https://github.com/user-attachments/assets/061171a4-e012-4873-98d6-1f61ddd93213" />
-<img width="601" height="601" alt="image" src="https://github.com/user-attachments/assets/243dc5f2-e101-44c0-bf76-924895356302" />
-<img width="601" height="601" alt="image" src="https://github.com/user-attachments/assets/a129f071-55ba-44fb-878b-408e8af78bab" />
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/50c3bcf5-7bd5-49b1-8af1-10418f6036c4" />
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/e8302bc8-6f89-4072-955a-6d2821c99bf8" />
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/061171a4-e012-4873-98d6-1f61ddd93213" />
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/243dc5f2-e101-44c0-bf76-924895356302" />
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/a129f071-55ba-44fb-878b-408e8af78bab" />
 <!-- END CREDLY BADGES -->
 
 → [View on Credly](https://www.credly.com/users/bansh-kumar)

@@ -1,0 +1,22 @@
+name: Update Credly Badges
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows you to trigger it manually
+
+permissions:
+  contents: write
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and Update Badges
+        uses: jd-35656/readme-credly-badges@v1.4.1
+        with:
+          credly_username: "bansh-kumar"
+          badge_size: "110x110"
+          badge_sort_by: "issued"
+          github_token: ${{ secrets.GITHUB_TOKEN }}

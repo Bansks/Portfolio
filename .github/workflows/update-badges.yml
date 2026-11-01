@@ -18,5 +18,6 @@ jobs:
         with:
           credly_username: "bansh-kumar"
           badge_size: "110x110"
+          badge_layout: "grid"
           badge_sort_by: "issued"
           github_token: ${{ secrets.GITHUB_TOKEN }}
